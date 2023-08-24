@@ -1,3 +1,6 @@
+##Created on Thu Aug 24 10:44:53 2023
+##@author: Lovelove_boii
+
 ## Functions for creating and using inverted matrices which caching ability
 
 
